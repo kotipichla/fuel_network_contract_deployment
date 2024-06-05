@@ -9,7 +9,7 @@
 
 
 
----Install Dependencies  ---- 
+## Install Dependencies 
 
 ```
 sudo apt update
