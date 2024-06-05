@@ -17,13 +17,7 @@ sudo apt upgrade -y
 sudo apt-get install curl screen -y 
 ```
 
----- Installing RUST ---
-
-
-
-
-
-
+## Installing RUST
 
 ---
 
@@ -32,11 +26,6 @@ source $HOME/.cargo/env
 rustc --version
 
 ---
-
-
-
-
-
 
 ![image](https://github.com/kotipichla/fuel-network/assets/152254884/6780a448-1989-46ec-9ea3-000c4d1a4fb0)
 
