@@ -48,7 +48,7 @@ sudo apt install git -y
 
 ## Install Fuel Toolchain 
 
-![image](https://github.com/kotipichla/fuel-network/assets/152254884/abeb5f01-4c26-4f1c-be70-67a491f01f4a)
+![image](https://github.com/kotipichla/fuel-network/assets/152254884/a9a66408-9ec9-46c3-bd55-6de6acc0bbd4)
 
 ```
 curl https://install.fuel.network | sh
