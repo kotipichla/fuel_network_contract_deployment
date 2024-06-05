@@ -145,7 +145,7 @@ forc build
 ## Deploying Contract 
 Remember, you will need your FUEL wallet here, i will be importing mine, if you don't have wallet, [Install from here](https://wallet.fuel.network/docs/install/)
 
-![image](https://github.com/kotipichla/fuel-network/assets/152254884/e474bda4-0708-45a2-9aed-257f46279475)
+![image](https://github.com/kotipichla/fuel-network/assets/152254884/bd7aae5b-f0a2-4064-8f6f-54bcdc8f22f6)
 
 
 
