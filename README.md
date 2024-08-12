@@ -42,6 +42,7 @@ rustup default stable
 
 
 
+
 ## Install GIT 
 
 ![image](https://github.com/kotipichla/fuel-network/assets/152254884/0bf622bb-87e1-45a9-8673-9e5b0dae8fa9)
